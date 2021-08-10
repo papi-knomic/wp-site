@@ -1,10 +1,3 @@
-/*
-Theme Name: LawFirm Sample
-Author: Knomic
-Description: Sample Wordpress Website
-Version: 1.0.0
-*/
-
 <?php
 
 function registerNav() {
