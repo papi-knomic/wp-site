@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad5e5762-cd76-448c-b5e6-5891d86fb00e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/lawfirm/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/lawfirm/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628602760993</updated>
-      <workItem from="1628602762277" duration="2305000" />
+      <workItem from="1628602762277" duration="4051000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1628604406175</created>
@@ -51,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628604406175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created header and footer for the website">
+      <created>1628607074589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628607074589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,16 +66,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Created header and footer for the website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created header and footer for the website" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628604405635">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628607074102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628604405635" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628604413376">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628607074102" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628611633981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628604413376" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628611633981" />
   </component>
 </project>

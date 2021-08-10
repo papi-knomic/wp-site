@@ -4,3 +4,17 @@ Author: Knomic
 Description: Sample Wordpress Website
 Version: 1.0.0
  */
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.hero-cta {
+    margin-top: 30px;
+}
+
+.hero-cta .elementor-icon-box-wrapper {
+    position: relative;
+    top: -40px;
+}
+
