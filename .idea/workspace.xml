@@ -4,6 +4,7 @@
     <list default="true" id="ad5e5762-cd76-448c-b5e6-5891d86fb00e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wXR59XcrCsrmiiYbXtwkqgnx2R" />
@@ -42,7 +48,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628602760993</updated>
-      <workItem from="1628602762277" duration="4051000" />
+      <workItem from="1628602762277" duration="4756000" />
+      <workItem from="1628620392526" duration="175000" />
+      <workItem from="1628620587272" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1628604406175</created>
@@ -74,9 +82,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628607074102" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628611633981">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628611998821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628611633981" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628611998821" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1628620587441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1628620587441" />
   </component>
 </project>

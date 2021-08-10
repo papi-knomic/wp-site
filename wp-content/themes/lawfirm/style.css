@@ -15,6 +15,10 @@ body {
 
 .hero-cta .elementor-icon-box-wrapper {
     position: relative;
-    top: -40px;
+    top: -50px;
 }
 
+.strong-view.wpmtst-modern .wpmtst-testimonial-content:before, .strong-view.wpmtst-modern .wpmtst-testimonial-content:after {
+    background: #ffffff !important;
+    color: #ffffff !important;
+}
