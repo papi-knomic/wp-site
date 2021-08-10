@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad5e5762-cd76-448c-b5e6-5891d86fb00e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/lawfirm/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/elementor/css/post-2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <updated>1628602760993</updated>
       <workItem from="1628602762277" duration="4756000" />
       <workItem from="1628620392526" duration="175000" />
-      <workItem from="1628620587272" duration="1743000" />
+      <workItem from="1628620587272" duration="1789000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1628604406175</created>
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628607074589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Home Page Done">
+      <created>1628622503975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628622503975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,17 +80,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Created header and footer for the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created header and footer for the website" />
+    <MESSAGE value="Home Page Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home Page Done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628607074102">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1628622503299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628607074102" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628611998821">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1628622503299" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1628622513884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628611998821" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628622513884" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1628620587441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
